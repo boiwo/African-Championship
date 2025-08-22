@@ -86,6 +86,7 @@ const MediaGuide: React.FC = () => {
       name: 'Ahmed Benali',
       email: 'media.director@chan2025.com',
       phone: '+212 5XX-XXX-001'
+
     },
     {
       role: 'Press Officer',

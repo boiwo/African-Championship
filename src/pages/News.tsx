@@ -5,12 +5,12 @@ const News: React.FC = () => {
   const newsArticles = [
     {
       id: 1,
-      title: "Morocco Announces Squad for CHAN 2025",
+      title: "Kenya Announces Squad for CHAN 2025",
       excerpt: "The Atlas Lions have named a strong 23-man squad featuring several promising local talents for the upcoming championship.",
       author: "CAF Media Team",
       date: "2025-01-15",
       category: "Team News",
-      image: "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "https://media.gettyimages.com/id/2221123394/photo/topshot-a-general-view-of-the-stadium-during-the-sunset-ahead-of-the-fifa-club-world-cup-2025.jpg?s=612x612&w=0&k=20&c=TXApE5mtGFRA5tSMHDOGqbiJM9dJlHCo377htxOJmUo=",
       featured: true
     },
     {
@@ -20,16 +20,16 @@ const News: React.FC = () => {
       author: "Stadium Committee",
       date: "2025-01-14",
       category: "Infrastructure",
-      image: "https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "https://media.gettyimages.com/id/2171641922/photo/bogota-colombia-players-of-japan-celebrate-after-winning-the-fifa-u-20-womens-world-cup.jpg?s=612x612&w=0&k=20&c=K-FZBaHxFWgZBaG2a1oW33wqs1nipW7hMDjLo_Ywr4I="
     },
     {
       id: 3,
-      title: "Nigeria's Home Eagles Arrive in Morocco",
+      title: "kenya's Home Eagles Arrive in kenya",
       excerpt: "The Nigerian squad has arrived in Morocco ahead of their opening group stage match, expressing confidence.",
       author: "Team Reporter",
       date: "2025-01-13",
       category: "Team News",
-      image: "https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "https://media.gettyimages.com/id/1500542303/photo/nairobi-kenya-overview-of-the-center-of-the-city-with-its-towers-and-skyscrapers.jpg?s=612x612&w=0&k=20&c=0jela_eaDIru38IYurjkktXoTtBPtADhShKcts0bohQ="
     },
     {
       id: 4,
@@ -38,16 +38,16 @@ const News: React.FC = () => {
       author: "Commercial Team",
       date: "2025-01-12",
       category: "Commercial",
-      image: "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "https://media.gettyimages.com/id/1228721476/photo/this-photograph-taken-on-september-26-2020-shows-the-new-football-field-during-the-official.jpg?s=612x612&w=0&k=20&c=eugTnas5YqKFF1y7s3i946xGDh3h0a2QHFoy9jY-Aqo="
     },
     {
       id: 5,
-      title: "CAF President Welcomes Teams to Morocco",
+      title: "CAF President Welcomes Teams to kenya",
       excerpt: "The CAF President officially welcomed all participating teams and emphasized the tournament's importance for African football development.",
       author: "CAF Communications",
       date: "2025-01-11",
       category: "Official",
-      image: "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "https://media.gettyimages.com/id/1945811829/photo/us-secretary-of-state-antony-blinken-prime-minister-of-ivory-coast-robert-beugre-mambe-and.jpg?s=612x612&w=0&k=20&c=IPudsoO3Dfj46gxFiozHJMUTEciMjIGGBMt2Um3KUps="
     },
     {
       id: 6,
@@ -56,7 +56,17 @@ const News: React.FC = () => {
       author: "Feature Writer",
       date: "2025-01-10",
       category: "Features",
-      image: "https://images.pexels.com/photos/163307/sport-tug-of-war-team-effort-163307.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "https://media.gettyimages.com/id/880876544/photo/topshot-people-celebrate-during-the-innauguration-ceremony-of-kenyas-new-president-at-kasarani.jpg?s=612x612&w=0&k=20&c=2KN15Mbpt6GYeQ-CMicfWzThTQCfLevAPMrvpD-SDg8="
+    },
+    
+    {
+      id: 6,
+      title: "kenyan team's for the tournament",
+      excerpt: "Players from domestic leagues across Africa are set to showcase their talents on the continental stage.",
+      author: "Feature Writer",
+      date: "2025-06-7",
+      category: "Features",
+      image: "https://media.gettyimages.com/id/2229961922/photo/nairobi-kenya-supporters-of-the-kenya-national-team-known-colloquially-as-the-harambee-stars.jpg?s=612x612&w=0&k=20&c=aMeJ32nZ_nMaWp5O2PatOKC_wj2fdEWsQMubk6JXJXM="
     }
   ];
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Trophy, Calendar, MapPin, Users, Star, Filter } from 'lucide-react';
+import { Trophy,  MapPin, Users, Star, Filter } from 'lucide-react';
 
 
 const Archive: React.FC = () => {
